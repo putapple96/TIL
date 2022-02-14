@@ -1,24 +1,24 @@
-## 소개
-- 오늘 알게 된 사실을 잊어버리기 간단한 메모 형식으로 적는 공간입니다!
-  - 따라서 내용이 부실하고 미흡할 수 있습니다..!!!
-- 잘 정리한 글은 모두 저의 개인 티스토리 블로그에 업로드됩니다.
+### 작심 365일🙏🏻 To-do lists
+~~깃헙 커밋 로그에 남김으로써... 해야할 일을 박제시키기~~
 
-    [![Tistory Badge](https://img.shields.io/badge/DevBlog-555263?style=flat&logoColor=white)](https://putapple96.tistory.com/)
 
-### ✏️ Now studying..
-- 회사 프로젝트에서 사용 중인 스택
+#### Daily
+- TIL 정리 후 업로드
+- 알고리즘 문제풀이 가볍게 1문제씩
 
-<img src="https://img.shields.io/badge/Docker-11B2DD?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitLab Runner-FCA121?style=flat-square&logo=gitlab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+#### Weekly
+- TIL 내용 중 따로 더 공부한 내용 정리 및 블로그에 업로드
+- 알고리즘 풀다가 막혔던 부분 정리
 
-- 개인 공부
+#### Devops
+- [ ] CKA 시험 응시 (3월 중순)
+- [ ] AWS DOP(DevOps Professional) 취득 (~2022.05)
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>
+#### Dev
+- [ ] 이것이 자바다 완독 + 블로그 정리 (~2022.04)
+- [ ] 디자인 패턴공부(자세한 건 java 언어 공부 마무리 될 때 쯤)
 
-### 📖 Now Reading...
-
+#### Spring
+스프링은 인프런 김영한 강사님 강의로 공부
+- [ ] 스프링 입문 (~2022.02.16)
+- [ ] 스프링 핵심 원리 - 기본편 (~2022.02.28)
