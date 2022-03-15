@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,9 +21,19 @@
       subMaxLevel: 3,
       loadNavbar: true,
       name: 'putapple96\'s TIL',
-      repo: 'https://github.com/putapple96/TIL/'
+      repo: 'https://github.com/putapple96/TIL/',
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: '찾을 내용 입력',
+        noData: '결과가 없습니다!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+     }
     }
   </script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- code highlight -->
@@ -33,4 +45,4 @@
   <!-- Zoom Image -->
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
-</html>
+</html
